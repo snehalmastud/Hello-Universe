@@ -1,2 +1,2 @@
 # Hello-Universe
-First project on Git
+First project on Git.
